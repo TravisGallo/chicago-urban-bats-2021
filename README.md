@@ -12,6 +12,14 @@ This `README` file includes information on the various scripts and datasets used
 
 ---
 
+<div align="center"> <h3>manuscript</h3> </div>
+
+---
+
+[PDF Version of Lehrer et al. 2021. Landscape and Urban Planning](https://urbanxnaturelab.com/publications/Lehrer_etal_2021_urban-bats.pdf)
+
+---
+
 <div align="center"> <h3>data</h3> </div>
 
 ---
