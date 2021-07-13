@@ -32,7 +32,7 @@ This `README` file includes information on the various scripts and datasets used
 
 **2020-06-26_Lehrer_etal_DetCovs2013_2017.csv:** Average monthly rainfall `AvgPrec...` for each sampling period and the model number of the recording device `Det...` that was deployed at each site during each sampling season. These data were used to estimate the detection probability of each bat species.
 
-**2020-06-26_Lehrer_etal_building_xyz_allsites.rds:** The height and X,Y,Z coordinate of each building located within 1-km fixed radius buffer around each site. This data was generated from a building shapefile maintained by the City of Chicago and also generated from LiDAR data provided by Cook County (neither located in this repository).
+**2020-06-26_Lehrer_etal_building_xyz_allsites.rds:** The height and X,Y,Z coordinates of each building located within 1-km fixed radius buffer around each site. This data was generated from a building shapefile maintained by the City of Chicago and also generated from LiDAR data provided by Cook County (neither located in this repository).
 
 **2020-06-26_Lehrer_etal_median_soundlevelpressure.rds:** Median sound pressure level at each site. These data were calculated using .wav files that are not located in this repository.
 
