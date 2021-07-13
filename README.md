@@ -46,5 +46,5 @@ This `README` file includes information on the various scripts and datasets used
 
 **2020-06-26_Lehrer_etal_urbanbatanalysis.R:** the only file that needs to be run. Sources all files listed to load data sets, format data for JAGS model, run JAGS model, summarize posterior distributions, calculate derived parameters.
 
-**2020-06-26_Lehrer_etal_JAGS_occu_LASSO.R:** JAGS model used to estimate the probability of occupancy for each bat species. Read in `2020-06-26_Lehrer_etal_urbanbatanalysis.R`
+**2020-06-26_Lehrer_etal_JAGS_occu_LASSO.R:** JAGS model used to estimate the probability of occupancy for each bat species. Sourced in `2020-06-26_Lehrer_etal_urbanbatanalysis.R`
 
